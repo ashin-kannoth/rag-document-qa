@@ -1,0 +1,7 @@
+python-dotenv
+weaviate-client==3.26.7
+langchain-community
+langchain-core
+langchain-ollama
+fastapi
+uvicorn

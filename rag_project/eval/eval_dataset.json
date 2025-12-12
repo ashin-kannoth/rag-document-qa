@@ -1,0 +1,17 @@
+[
+  {
+    "question": "What is machine learning?",
+    "ground_truth": "Machine learning is a subset of AI that allows systems to learn from data.",
+    "expected_context": "Machine learning is a subset of AI."
+  },
+  {
+    "question": "What does AI stand for?",
+    "ground_truth": "AI stands for Artificial Intelligence.",
+    "expected_context": "Artificial Intelligence, often called AI."
+  },
+  {
+    "question": "What is the purpose of a vector database?",
+    "ground_truth": "A vector database stores vector embeddings for similarity search.",
+    "expected_context": "Vector databases are used for storing and retrieving vectors."
+  }
+]
